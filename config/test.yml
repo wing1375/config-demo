@@ -1,5 +1,5 @@
 data:
-env: test
-user:
-  username: test
-  password: test
+  env: test
+  user:
+    username: test
+    password: test
